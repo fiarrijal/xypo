@@ -1,2 +1,0 @@
-# xypo
-Created with CodeSandbox
